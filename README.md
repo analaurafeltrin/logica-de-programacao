@@ -6,11 +6,17 @@
 
 Abaixo, seguem os arquivos existentes neste repositório:
 
-## 🎯 Desafios
+## 🎯 Proposta dos desafios:
 
 - 🧠 [Desafio 1](exercicios/desafio1.md)
 - 🧠 [Desafio 2](exercicios/desafio2.md)
 - 🧠 [Desafio 3](exercicios/desafio3.md)
+
+## ✅ Desafios resolvidos:
+
+- 🧩 [Desafio 1](exercicios/desafio1.js)
+- 🧩 [Desafio 2](exercicios/desafio2.js)
+- 🧩 [Desafio 3](exercicios/desafio3.js)
 
 ## 📖 Estudos
 
