@@ -21,4 +21,6 @@ Abaixo, seguem os arquivos existentes neste repositório:
 - 📊 [Manipulando vetores e matrizes](anotacoes-notion/Vetores-e-matrizes.md)
 - 🛠️ [Operadores](anotacoes-notion/Operadores.md)
 - 🔀 [Estruturas de controle](anotacoes-notion/Estruturas-controle.md)
-- 🪜 [Funções](/anotacoes-notion/Funções.md)
+- 🪜 [Funções](anotacoes-notion/Funções.md)
+- 📄 [JSON](anotacoes-notion/JSON.md)
+- 📦 [Objetos](anotacoes-notion/Objetos-e-classes.md)
