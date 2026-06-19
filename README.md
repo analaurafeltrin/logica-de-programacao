@@ -1,4 +1,5 @@
 # 📚 Índice de Estudo - Lógica de Programação
+
 > Anotações feitas durante o estudo do curso "Lógica de Programação", oferecida pela DIO (Digital Innovation One).
 
 ---
@@ -20,3 +21,4 @@ Abaixo, seguem os arquivos existentes neste repositório:
 - 📊 [Manipulando vetores e matrizes](anotacoes-notion/Vetores-e-matrizes.md)
 - 🛠️ [Operadores](anotacoes-notion/Operadores.md)
 - 🔀 [Estruturas de controle](anotacoes-notion/Estruturas-controle.md)
+- 🪜 [Funções](/anotacoes-notion/Funções.md)
